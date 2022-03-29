@@ -12,11 +12,11 @@ sass:
 plainwhite:
   name: Edward Paulino
   tagline: |
-  World-Renown Intelectual.
+  First Line.
 
-  NFT Whisperer.
+  Second Line.
 
-  Humility Coach.
+  Third Line.
 
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
