@@ -25,8 +25,13 @@ plainwhite:
     - page
     - post
   # generate social links in footer
+  navigation:
+    - title: My Work
+      url: "/my-work"
+    - title: Resume
+      url: "/resume"
   social_links:
-    twitter: edpaulinojr
+    twitter: edwardpaulinojr
     github:  edpaulino
     linkedIn: in/edwardpaulino
     #dribbble: jekyll
