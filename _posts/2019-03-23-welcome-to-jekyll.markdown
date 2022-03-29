@@ -1,21 +1,28 @@
 ---
 layout: post
-title:  "Why I'm pivoting to Web 4.0"
-date:   2022-03-29 21:03:36 +0530
-categories: TruthBombs :fire:
+title:  "Integrating razorpay into your webapp"
+date:   2019-03-23 21:03:36 +0530
+categories: Javascript NodeJS
 ---
-As my poker buddy Warren Buffet once said "be fearful when others are greedy, and greedy when others are fearful.” Well, as we've seen the past few months, the greed in the Web3 market has reached all time highs. The signs are all there. Pokémon announced the next game in the franchise would be entirely NFT-based. My local Shanghainese joint is closing up shop and relaunching as a DAO (it will now be called "BaoDAO"). And the Girls Scouts of America are launching a new "cookie exchange" where financial derivatives of their famous baked goods will be traded to "create liquidity" in the cookie market.
-
-Enough is enough. I'm excited to announce a move to leapfrog the chaos and stagnation of the Web3 ecosystem. Get ready for the future of value creation: Web 4.0. Web4 will be a top-down, decentralized "values" based system where participants will exchange "vibe tokens" for "inertia", the fuel powering the Web4 ecosystem.
-
-In the coming weeks, my partners and I will release a white paper with additional information detailing the transformative power of Web4. Here's a sneak-peek:
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 
 ```javascript
-const plan = require('Money');
+const Razorpay = require('razorpay');
 
-let GimmeDaLoot = moreMoney({
-	Money++
+let rzp = Razorpay({
+	key_id: 'KEY_ID',
+	secret: 'name'
 });
 
+// capture request
+rzp.capture(payment_id, cost)
+	.then(function (data) {
+		return 2;
+	})
 ```
-That's just the beginning. Don't delay on hopping aboard the Web4 train. Choo. Choo.
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
