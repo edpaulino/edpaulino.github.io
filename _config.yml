@@ -1,7 +1,7 @@
 # Site
-name: "Name"
-title: "Title"
-description: "This is the description."
+name: "Futureproof"
+title: "Futureproof"
+description: "Ideas for today and tomorrow."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl:
