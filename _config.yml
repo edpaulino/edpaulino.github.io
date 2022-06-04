@@ -1,10 +1,10 @@
 # Site
 name: "Future proof"
 title: "Future proof"
-description: "Writings on tech, innovation, and policy."
+description: "Writings on tech, innovation, and policy"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl:
+baseurl: https://edwardpaulino.com/
 google_analytics: G-DZZ2HC3NY8
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'

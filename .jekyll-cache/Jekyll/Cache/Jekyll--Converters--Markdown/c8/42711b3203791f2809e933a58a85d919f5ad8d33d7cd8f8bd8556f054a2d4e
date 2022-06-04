@@ -1,10 +1,4 @@
----
-layout: page
-title: About Ed
-permalink: /about
-comments: true
----
-
+I"ê
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
@@ -34,3 +28,4 @@ Feel free to reach out if you‚Äôd like to discuss an opportunity or challenge at
 </div>
 </div>
 </div>
+:ET
