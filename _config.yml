@@ -6,20 +6,20 @@ logo: 'assets/images/FP.png'
 favicon: 'assets/images/fp-favi.png'
 baseurl: ''
 google_analytics: 'G-DZZ2HC3NY8'
-disqus: 'demowebsite'
+disqus: 'edwardpaulino-com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
+  ed:
+    name: Ed
+    display_name: Ed
+    gravatar: 65d9907bf5fd9775e6be5bdccaa399e4
+    email: edpaulinojr@gmail.com
     web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
+    twitter: https://twitter.com/edpaulinojr
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   john:
     name: John
