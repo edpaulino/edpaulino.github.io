@@ -1,13 +1,13 @@
 # Site
 name: "Future proof"
 title: "Future proof"
-description: "This is the description."
+description: "Writings on innovation, tech, and policy."
 logo: 'assets/images/FP.png'
 favicon: 'assets/images/fp-favi.png'
 baseurl: ''
 google_analytics: 'G-DZZ2HC3NY8'
 disqus: 'edwardpaulino-com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://edwardpaulino.us17.list-manage.com/subscribe/post?u=e1393cf5a631e6fe336c7d335'
 include: ["_pages"]
 permalink: /:title/
 
@@ -15,12 +15,12 @@ permalink: /:title/
 authors:
   ed:
     name: Ed
-    display_name: Ed
+    display_name: Edward Paulino
     gravatar: 65d9907bf5fd9775e6be5bdccaa399e4
     email: edpaulinojr@gmail.com
-    web: https://www.wowthemes.net
+    web: https://edwardpaulino.com/about
     twitter: https://twitter.com/edpaulinojr
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    description: "In a world with plenty of challenges, Ed likes to research, advocate, and test solutions to problems that matter."
   john:
     name: John
     display_name: John
