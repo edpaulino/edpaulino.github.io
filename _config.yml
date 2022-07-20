@@ -3,7 +3,7 @@ name: "Future proof"
 title: "Future proof"
 description: "Writings on innovation, tech, and policy."
 logo: 'assets/images/FP.png'
-favicon: 'assets/images/fp-favi.png'
+favicon: 'assets/images/favicon.ico'
 baseurl: ''
 google_analytics: 'G-DZZ2HC3NY8'
 disqus: 'edwardpaulino-com'
