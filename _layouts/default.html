@@ -98,12 +98,17 @@ ga('send', 'pageview');
 
 <!-- Site Title
 ================================================== -->
+
+{% if meta.property != "article" %}
 <div class="mainheading">
     <h1 class="sitetitle">{{ site.name }}</h1>
     <p class="lead">
         {{ site.description }}
     </p>
 </div>
+{% endif %}
+
+
 
 <!-- Content
 ================================================== -->
@@ -123,6 +128,11 @@ ga('send', 'pageview');
             <input type="submit" value="Subscribe" name="subscribe" class="heart">
             </div>
         </form>
+				{% if page.url == "/" %}
+				<li class="nav-item active">
+				{% else %}
+				<li class="nav-item">
+				{% endif %}
 
 </div>
 {% endif %}
